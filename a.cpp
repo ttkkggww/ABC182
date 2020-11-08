@@ -1,0 +1,11 @@
+#include<bits/stdc++.h>
+//#include<atcoder/all>
+using namespace std;
+using ll = long long;
+
+int main()
+{
+	ll a,b;
+	cin >> a >> b;
+	cout<<(2*a+100)-b<<endl;
+}
